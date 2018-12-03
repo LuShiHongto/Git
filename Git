@@ -30,4 +30,4 @@ git checkout master //切换回主分支
 git merge hongshao  //与分支代码合并
 git push origin master //推送到远程仓库
 .................................................
-
+git push origin master -f //强推覆盖远程仓库
