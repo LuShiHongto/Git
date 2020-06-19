@@ -1,11 +1,11 @@
-1.远程没东西
+1.仓库没东西
 git init //建本地仓库
 git remote add origin 仓库地址 //连接远程仓库
 git add .  //推到暂存区
 git commit -m “备注” //推到版本库
 git push origin master //推送到远程仓库
 .................................................
-2.远程有东西
+2.仓库有东西
 git init //建本地仓库
 git remote add origin 仓库地址 //连接远程仓库
 git pull 	//拉取远程仓库的东西
